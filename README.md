@@ -1,1 +1,1 @@
-Not a really game, just an experiment
+It's not really a game, just an experiment
