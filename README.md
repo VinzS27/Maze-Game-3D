@@ -6,11 +6,11 @@
 
 <p id="description">I added buttons so you can play it on other platforms.</p>
 
-<h5>red balls will chase you</h5>
+<h2>Red balls will chase you</h2>
 
 ![Screenshot (596)](https://github.com/VinzS27/Maze-Game-3D/assets/94700172/8e56b747-4e05-4351-9fb8-6088e2d7bef3)
 
-<h5>Look for the green balls for a power up</h5>
+<h2>Look for the green balls for a power up</h2>
 
 ![Screenshot (595)](https://github.com/VinzS27/Maze-Game-3D/assets/94700172/73626053-0a3c-45f2-b049-baca7dac8e74)
 
