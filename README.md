@@ -6,4 +6,5 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://imgur.com/IXGrZeg" alt="project-screenshot" width="50" height="50/">
+![Screenshot (593)](https://github.com/VinzS27/Maze-Game-3D/assets/94700172/f0865770-0268-460e-b256-f937f24cc95d)
+
