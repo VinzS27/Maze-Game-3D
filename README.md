@@ -6,4 +6,6 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://imgur.com/IXGrZeg" alt="project-screenshot" width="50" height="50/">
+<img src="<blockquote class=" imgur-embed-pub"="" lang="en" data-id="IXGrZeg">
+
+[View post on imgur.com](https://imgur.com/IXGrZeg)" alt="project-screenshot" width=50 height=50/>
