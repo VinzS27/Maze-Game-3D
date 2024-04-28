@@ -12,5 +12,4 @@
 
 <h2>Look for the green balls for a power up</h2>
 
-![Screenshot (595)](https://github.com/VinzS27/Maze-Game-3D/assets/94700172/73626053-0a3c-45f2-b049-baca7dac8e74)
-
+![Screenshot (597)](https://github.com/VinzS27/Maze-Game-3D/assets/94700172/89f2cf03-6fbd-4ed6-bff0-2346f7ffb011)
