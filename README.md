@@ -6,6 +6,4 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="<blockquote class=" imgur-embed-pub"="" lang="en" data-id="IXGrZeg">
-
-[View post on imgur.com](https://imgur.com/IXGrZeg)" alt="project-screenshot" width=50 height=50/>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/RhKV28m"><a href="//imgur.com/RhKV28m">Maze 3D</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
